@@ -1,8 +1,8 @@
-# ArtQuest HQ
+# SRHS . Art
 
 Mobile-first linklist app for ArtQuest at Santa Rosa High School.
 
-**Live Site:** https://www.srhs.art
+**Live Site:** https://srhs.art
 
 ## Features
 - Mobile-first responsive design
@@ -13,4 +13,4 @@ Mobile-first linklist app for ArtQuest at Santa Rosa High School.
 ## Tech Stack
 - Static HTML/CSS
 - Font Awesome icons
-- Nginx hosting
+- Cloudflare Pages Hosting
